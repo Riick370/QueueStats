@@ -5,7 +5,7 @@
  echo "<meta http-equiv='refresh' 
 content='5;url=index.php?queue=$queue'>";
 ?>
- <title>Advanced Recovery Systems Queue Monitor</title>
+ <title>Queue Statistics</title>
 
   <style type="text/css">
   td.large {
@@ -136,7 +136,6 @@ echo "</td></tr></table>";
     $asm->disconnect();
   }
 ?>
-<img src="trv.jpg">
 </center>
 </body>
 </html>
