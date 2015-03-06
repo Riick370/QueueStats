@@ -1,0 +1,4 @@
+AuthName "Secure Area"
+AuthType Basic
+AuthUserFile /etc/httpd/passwd/passwords
+require valid-user

@@ -1,0 +1,5 @@
+   Members: 
+      301 (Local/301@from-queue/n from SIP/301) (ringinuse enabled) (dynamic) (In use) has taken 8 calls (last was 1460 secs ago)
+      300 (Local/300@from-queue/n from SIP/300) (ringinuse enabled) (dynamic) (Ringing) has taken 9 calls (last was 35 secs ago)
+   Callers: 
+      1. DAHDI/i1/8595258040-874 (wait: 0:02, prio: 0)
