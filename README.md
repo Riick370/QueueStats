@@ -7,7 +7,7 @@ Instructions.
 In FreePBX:
 Admin>Module Admin> Make sure PHPAGI Config module is installed.  If not, install it.
 
-Goto Settings>Asterisk Manager Users> Add Manager with a name like queuestats and a complex password.  Read all.  Submit changes.
+Goto Settings>Asterisk Manager Users> Add Manager with a name like queuestats and a complex password.  Read/Write all.  Submit changes.
 
 Goto Settings>PHPAGI Config> under Asterisk API settings Choose Manager:  queuestats.  Submit changes.
 
